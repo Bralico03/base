@@ -1,7 +1,7 @@
 package org.blc.training.base;
 
 /**
- * Base es la classe ou nous allons apprendre à utiliser la class des évenements
+ * Base est la classe ou nous allons apprendre à utiliser la class des évenements
  * de sortie
  *
  * @author blondel.sita

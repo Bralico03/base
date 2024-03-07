@@ -9,5 +9,9 @@
  * @author blondel.sita
  */
 public class MesVariables {
+     public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+    
     
 }

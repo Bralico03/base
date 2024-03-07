@@ -5,6 +5,7 @@
 
 /**
  *
+ * Mes variables permetent de jouer avec mes variables
  * @author blondel.sita
  */
 public class MesVariables {

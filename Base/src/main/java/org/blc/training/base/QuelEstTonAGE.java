@@ -10,7 +10,9 @@ public class QuelEstTonAGE {
     
     public static void main (String [] args){
             
-         System.out.println("tu as" + args[0]);
+         System.out.println("tu as" + args[0] +"ans");
+         
+         System.out.println("et tu t'appel " + args[1] +"");
          
          
 }    
